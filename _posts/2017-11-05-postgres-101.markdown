@@ -5,7 +5,7 @@ date:   2017-11-05
 categories: postgres guide
 ---
 
-This is a super simple runthrough of how to get postgres up and running. In another post I'll cover how to use docker to do all this for you. The end goal of this and the next post will be: gain the ability to stand up cheap and easy postgres dbs for rapid prototyping when noodling around with app ideas.
+This is a super simple runthrough of how to get postgres up and running. The end goal of this and the next post will be: gain the ability to stand up cheap and easy postgres dbs for rapid prototyping when noodling around with app ideas.
 
 Postgres is Organized like this:
 ---
